@@ -41,7 +41,6 @@ pip install -r requirements.txt
 
 robotframework
 robotframework-requests
-robotframework-collections
 
 ## 🏃‍♂️ Executando os Testes
 
