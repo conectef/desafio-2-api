@@ -31,6 +31,12 @@ Projeto/
 
 ---
 
+## ✅ Conclusão
+
+Este projeto serve como **ambiente de teste completo** para praticar testes automatizados de API.
+Com ele é possível validar **comportamentos funcionais e não funcionais** (tratamento de erros e formatos inválidos) de forma clara e organizada.
+
+---
 ## 📦 Dependências
 
 Certifique-se de ter Python 3 instalado.
@@ -38,20 +44,9 @@ Para instalar as bibliotecas necessárias:
 
 ```bash
 pip install -r requirements.txt
-
 robotframework
 robotframework-requests
 
-## 🏃‍♂️ Executando os Testes
-
-Navegue até a pasta do projeto:
-
-```bash
-robot -d results tests/viacep_api.robot
 
 
-## ✅ Conclusão
-
-Este projeto serve como **ambiente de teste completo** para praticar testes automatizados de API.
-Com ele é possível validar **comportamentos funcionais e não funcionais** (tratamento de erros e formatos inválidos) de forma clara e organizada.
 
